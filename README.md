@@ -9,3 +9,7 @@ It was my first time doing a Deep Learning Project of this kind and it was a goo
 
 This is a link to the original Repository.
 https://github.com/jaron/deep-listening
+
+Revised Urban Sound contains the parameter changes from the original code.
+
+
